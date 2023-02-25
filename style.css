@@ -1,0 +1,51 @@
+* {
+  color: white;
+  font-family: sans-serif;
+}
+
+body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100px;
+}
+
+h1 {
+  font-size: 500%;
+}
+.center {
+  text-align: center;
+  font-size: 500%;
+  border-left-style: solid;
+  border-left-width: 2px;
+}
+#continue {
+  font-size: 30%;
+  text-align: center;
+}
+.headnote {
+  transform: rotate(90deg);
+}
+.quote {
+  float: right;
+  font-size: 150%;
+  height: auto;
+  width: 225px;
+}
+.extras {
+  height: auto;
+  width: 250px;
+}
+.play {
+  background-image: url(abstract3.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  float: right;
+  height: 200px;
+  width: 200px;
+  display: flex;
+
+}
+
